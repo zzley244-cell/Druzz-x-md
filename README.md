@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff9,50:7c4dff,100:ff00e6&height=220&section=header&text=DRUZZ%20X-MD&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Multi-Device%20Bot%20%E2%80%A2%20v1.2.0%20%E2%80%A2%20FREE%20BASE&descAlignY=58&descSize=18&descColor=e6e6ff" width="100%" alt="DRUZZ X-MD">
 
